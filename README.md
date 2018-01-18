@@ -17,9 +17,8 @@ Function `detect_lanes(img)` is used as pipeline to take input image and return 
 - Draw identified lane lines on original image by using image from previous step.
 - Return the modified image.
 - Following are some samples of pipeline results:-
-![alt text](test_images/solidWhiteCurve.jpg | width=100 "original image")
-![alt text](test_images_output/solidWhiteCurve.jpg | width=100 "Lane Detected image")
-
+<img src="test_images/solidWhiteCurve.jpg" width="48">
+<img src="test_images_output/solidWhiteCurve.jpg" width="48">
 ### Shortcommings
 - May not work for curved lines.
 - May not work if road has bumps, camera is misaligned, bad lightning conditions.
