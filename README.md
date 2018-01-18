@@ -12,7 +12,7 @@ Function `detect_lanes(img)` is used as pipeline to take input image and return 
   	* Calculate slope for each line segment we get from hough transform.
   	* Classify them into two category left lane and right lane based on negative and positive slopes respectively.
   	* Compute slope and intersection/offset of line passing through collection of point for each lane by using `numpy polyfit` function.
-  	* Once we get slope and intersect for each lane by using y starting and ending co-ordinates calculate corresponding x co-ordinates.
+  	* Once we get slope and intersect for each lane by using y starting and ending coordinates calculate corresponding x coordinates.
   	* Draw lines on blank image.
 - Draw identified lane lines on original image by using image from previous step.
 - Return the modified image.
