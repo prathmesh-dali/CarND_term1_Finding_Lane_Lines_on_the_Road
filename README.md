@@ -18,14 +18,14 @@ Function `detect_lanes(img)` is used as pipeline to take input image and return 
 - Return the modified image.
 - Following are some samples of pipeline results:-
 
-| Original Image  | Results |
+| Original Image  | Result |
 | ------------- | ------------- |
-| ![alt text](test_images/solidWhiteCurve.jpg "original image")  | ![alt text](test_images_output/solidWhiteCurve.jpg "original image")  |
-| ![alt text](test_images/solidWhiteRight.jpg "original image")  | ![alt text](test_images_output/solidWhiteRight.jpg "original image")  |
-| ![alt text](test_images/solidYellowCurve.jpg "original image")  | ![alt text](test_images_output/solidYellowCurve.jpg "original image")  |
-| ![alt text](test_images/solidYellowCurve2.jpg "original image")  | ![alt text](test_images_output/solidYellowCurve2.jpg "original image")  |
-| ![alt text](test_images/solidYellowLeft.jpg "original image")  | ![alt text](test_images_output/solidYellowLeft.jpg "original image")  |
-| ![alt text](test_images/whiteCarLaneSwitch.jpg "original image")  | ![alt text](test_images_output/whiteCarLaneSwitch.jpg "original image")  |
+| ![alt text](test_images/solidWhiteCurve.jpg "Original Image")  | ![alt text](test_images_output/solidWhiteCurve.jpg "Result")  |
+| ![alt text](test_images/solidWhiteRight.jpg "Original Image")  | ![alt text](test_images_output/solidWhiteRight.jpg "Result")  |
+| ![alt text](test_images/solidYellowCurve.jpg "Original Image")  | ![alt text](test_images_output/solidYellowCurve.jpg "Result")  |
+| ![alt text](test_images/solidYellowCurve2.jpg "Original Image")  | ![alt text](test_images_output/solidYellowCurve2.jpg "Result")  |
+| ![alt text](test_images/solidYellowLeft.jpg "Original Image")  | ![alt text](test_images_output/solidYellowLeft.jpg "Result")  |
+| ![alt text](test_images/whiteCarLaneSwitch.jpg "Original Image")  | ![alt text](test_images_output/whiteCarLaneSwitch.jpg "Result")  |
 
 ### Shortcommings
 - May not work for curved lines.
