@@ -34,3 +34,4 @@ Function `detect_lanes(img)` is used as pipeline to take input image and return 
 ### Possible Improvements
 - Make it work in bad and uneven lightning conditions.
 - Reduce flickering of drawn lines.
+- Improve logic to work for Challege video.
